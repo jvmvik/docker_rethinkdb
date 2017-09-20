@@ -1,0 +1,20 @@
+[
+{
+ name: 'irma',
+ info: {
+  cat: 4
+ }
+},
+{
+ name: 'harvey',
+ info: {
+  cat: 3
+ }
+},
+{
+ name: 'jose',
+ info: {
+  cat: 3
+ }
+}
+]
